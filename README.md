@@ -94,8 +94,8 @@ If you would like to contribute to this project, we ask that you familiarize you
 
 ## Disclaimer
 
-* [Github](https://github.com/Team12RunnersLLC) 
-* [Website](https://t12r.pythonanywhere.com/) </br>
+* [[Github]](https://github.com/Team12RunnersLLC) 
+* [[Website]](https://t12r.pythonanywhere.com/) </br>
 
 
 > Some parts of this repository contain code that may not be owned or created by the developers of Demand, Team12Runners LLC, or T12R Inc.</br>
