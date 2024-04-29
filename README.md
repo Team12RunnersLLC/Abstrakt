@@ -33,7 +33,7 @@
   - Processes restarting too fast? Not a problem. You can adjust the timeout check-interval to check more often. or you 
 * Whitelists and Blacklists
   - Know who's friend and who's foe? Send out `whitelist.json` and `blacklist.json` files from the Beacon and Abstrakt will take care of the rest.
-  - Don't which process is critical? Abstrakt can fetch a list of all currently running processes and send it back to Beacon. You can then manually whitelist running processes, such as system processes and Abstrakt itself, and blacklist the rest or configure the Beacon to automatically do that instead, if it suits your needs.
+  - Don't know which process is critical? Abstrakt can fetch a list of all currently running processes and send it back to Beacon. You can then manually whitelist running processes, such as system processes and Abstrakt itself, and blacklist the rest or configure the Beacon to automatically do that instead, if it suits your needs.
   - Option to export the process list locally as `.txt` or send it to Beacon as `.json` within a pre-specified interval.
 * Supports Group Mode* 
   - Group mode makes it possible for Abstrakt to run simultaneously with other Abstrakt instances and won't terminate them. To activate it, simply send a command from the Beacon.
